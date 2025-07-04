@@ -19,16 +19,7 @@ It reads input from joysticks and buttons via analog and digital pins, and maps 
 - Arduino (e.g., Uno, Mega)
 - Python environment with `pyserial`, `pyautogui`
 
-## File Structure
-
-Gamepad/
-├── ino/
-│ └── sketch_jun11a.ino # Arduino sketch (reads joystick + button input)
-├── py/
-│ ├── arduino_keyboard.py # Serial-to-keyboard/mouse mapper
-│ └── mortal_kombat.py # Example interaction or custom mapping
-
-
+  
 ## Requirements
 
 ### Hardware:
